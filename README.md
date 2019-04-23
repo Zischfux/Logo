@@ -1,3 +1,3 @@
-# Logo
+# Logo & epg
 
-Tvlogos 4 Kodi
+Tvlogos & epg 4 Kodi only 4 testing

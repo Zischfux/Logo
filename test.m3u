@@ -4,7 +4,7 @@
 https://gcdn.2mdn.net/api/manifest/hls_playlist/id/58ff5b5e0aeae203/itag/91/source/doubleclick_dmm/requiressl/yes/ratebypass/yes/pfa/1/goi/160/sgoap/clen%3D90919%3Bdur%3D15.139%3Bgir%3Dyes%3Bitag%3D139%3Blmt%3D1553535853627848/sgovp/clen%3D208759%3Bdur%3D15.000%3Bgir%3Dyes%3Bitag%3D160%3Blmt%3D1553535858754295/hls_chunk_host/r4---sn-h0jeen7k.c.2mdn.net/playlist_type/LIVE/ei/hROZXJumIpfGqwWNv4Zg/susc/dcdmm/ctier/L/initcwndbps/14070/mm/42/mn/sn-h0jeen7k/ms/onc/mv/m/pl/17/dover/6/mt/1556023836/ip/213.47.81.62/ipbits/0/expire/3697983877/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,pfa,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,susc,ctier,initcwndbps,mm,mn,ms,mv,pl/signature/490B1A3888F04E0D37D4A551BFA687D764FF7B8F.9BBBF0B36CD94EF6E89A224E09005AA33F5AE1EC/key/dg_yt0/playlist/index.m3u8
 
 #EXTINF:-1, tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf1.png" tvg-name="ORF 1"  group-title="Austria TV",ORF 1
-PlayMedia(&quot;plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&amp;mode=12&quot;
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&amp;mode=12
 
 #EXTINF:-1, tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf2.png" tvg-name="ORF 2"  group-title="Austria TV",ORF 2
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
@@ -115,7 +115,7 @@ http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2F
 http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Fwdr.png&mode=10&channelid=10666
 
 #EXTINF:-1, tvg-id="SKYaction.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyaction.png" tvg-name="Sky Action"  group-title="Sky",Sky Action
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4672&mode=12
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4672&mode=12
 
 #EXTINF:-1, tvg-id="SKYcinemahits.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyhits.png" tvg-name="Sky Hits"  group-title="Sky",Sky Hits
 http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F7728&mode=12
@@ -174,6 +174,6 @@ http://123.456.789
 #EXTINF:-1, tvg-id="SKYarts.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyarts.png" tvg-name="Sky Arts"  group-title="Sky",Sky Arts
 http://123.456.789
 
-#EXTINF:-1, tvg-id="PRO7fun.de" tvg-logo="New Logo" tvg-name="teststream"  group-title="test",teststream
+#EXTINF:-1, tvg-id="" tvg-logo="New Logo" tvg-name="teststream"  group-title="test",teststream
 http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4671&mode=12
 

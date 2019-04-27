@@ -1,179 +1,514 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:-1, tvg-id="ATV.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/atv.png" tvg-name="ATV"  group-title="Austria TV",ATV
-https://gcdn.2mdn.net/api/manifest/hls_playlist/id/58ff5b5e0aeae203/itag/91/source/doubleclick_dmm/requiressl/yes/ratebypass/yes/pfa/1/goi/160/sgoap/clen%3D90919%3Bdur%3D15.139%3Bgir%3Dyes%3Bitag%3D139%3Blmt%3D1553535853627848/sgovp/clen%3D208759%3Bdur%3D15.000%3Bgir%3Dyes%3Bitag%3D160%3Blmt%3D1553535858754295/hls_chunk_host/r4---sn-h0jeen7k.c.2mdn.net/playlist_type/LIVE/ei/hROZXJumIpfGqwWNv4Zg/susc/dcdmm/ctier/L/initcwndbps/14070/mm/42/mn/sn-h0jeen7k/ms/onc/mv/m/pl/17/dover/6/mt/1556023836/ip/213.47.81.62/ipbits/0/expire/3697983877/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,pfa,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,susc,ctier,initcwndbps,mm,mn,ms,mv,pl/signature/490B1A3888F04E0D37D4A551BFA687D764FF7B8F.9BBBF0B36CD94EF6E89A224E09005AA33F5AE1EC/key/dg_yt0/playlist/index.m3u8
 
-#EXTINF:-1, tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf1.png" tvg-name="ORF 1"  group-title="Austria TV",ORF 1
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&amp;mode=12
+#EXTINF:-1,Zdf
+http://80.238.134.35:80/ZDF/index.m3u8
+#EXTINF:-1,Zdf Neo
+http://80.238.134.35:80/zdf_neo/index.m3u8
+#EXTINF:-1,Zdf Info
+http://80.238.134.35:80/ZDFinfo/index.m3u8
 
-#EXTINF:-1, tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf2.png" tvg-name="ORF 2"  group-title="Austria TV",ORF 2
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
-
-#EXTINF:-1, tvg-id="ORF3.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf3.png" tvg-name="ORF 3"  group-title="Austria TV",ORF 3
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12804&mode=12
-
-#EXTINF:-1, tvg-id="ORFsport.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orfsport.png" tvg-name="ORF Sport"  group-title="Austria TV",ORF Sport
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12805&mode=12
-
-#EXTINF:-1, tvg-id="PRO7.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/pro7.png" tvg-name="Pro7"  group-title="Free TV",Pro7
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
-
-#EXTINF:-1, tvg-id="PRO7fun.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/pro7fun.png" tvg-name="Pro7fun"  group-title="Free TV",Pro7fun
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12800&mode=12
-
-#EXTINF:-1, tvg-id="PRO7maxx.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/pro7maxx.png" tvg-name="Pro7maxx"  group-title="Free TV",Pro7maxx
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4652&mode=12
-
-#EXTINF:-1, tvg-id="SERVUS.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/servustv.png" tvg-name="ServusTV"  group-title="Free TV",ServusTV
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12812&mode=12
-
-#EXTINF:-1, tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/zdf.png" tvg-name="ZDF"  group-title="Free TV",ZDF
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=http%3A%2F%2F80.238.134.35%3A80%2FZDF%2Findex.m3u8&mode=12
-
-#EXTINF:-1, tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/zdfinfo.png" tvg-name="ZDfinfo"  group-title="Free TV",ZDfinfo
-http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=&mode=10&channelid=10636
-
-#EXTINF:-1, tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/zdfneo.png" tvg-name="ZDFneo"  group-title="Free TV",ZDFneo
-http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F360%2Fextra_big_logo.png&mode=10&channelid=10633
-
-#EXTINF:-1, tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtl.png" tvg-name="RTL"  group-title="Free TV",RTL
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FRTL%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
-
-#EXTINF:-1, tvg-id="RTL2.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtl2.png" tvg-name="RTL2"  group-title="Free TV",RTL2
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FRTL2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
-
-#EXTINF:-1, tvg-id="RTL3.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlliving.png" tvg-name="RTL Living"  group-title="Free TV",RTL Living
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4648&mode=12
-
-#EXTINF:-1, tvg-id="RTLpassion.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlpassion.png" tvg-name="RTL Passion"  group-title="Free TV",RTL Passion
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4662&mode=12
-
-#EXTINF:-1, tvg-id="RTLcrime.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlcrime.png" tvg-name="RTL Crime"  group-title="Free TV",RTL Crime
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4663&mode=12
-
-#EXTINF:-1, tvg-id="RTLplus.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlplus.png" tvg-name="RTL plus"  group-title="Free TV",RTL plus
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F52964&mode=12
-
-#EXTINF:-1, tvg-id="SUPER.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/superrtl.png" tvg-name="Super RTL"  group-title="Free TV",Super RTL
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FSUPERRTL%2Fstream_multi.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
-
-#EXTINF:-1, tvg-id="RTLnitro.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlnitro.png" tvg-name="RTL nitro"  group-title="Free TV",RTL nitro
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4646&mode=12
-
-#EXTINF:-1, tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ard.png" tvg-name="Das erste"  group-title="Free TV",Das erste
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FARD%2Fstream_multi.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
-
-#EXTINF:-1, tvg-id="KABEL1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/kabel1.png" tvg-name="Kabel 1"  group-title="Free TV",Kabel 1
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FKABEL1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
-
-#EXTINF:-1, tvg-id="KABEL1d.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/kabel1doku.png" tvg-name="Kabel 1 doku"  group-title="Free TV",Kabel 1 doku
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12802&mode=12
-
-#EXTINF:-1, tvg-id="KABEL1c.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/kabel1classics.png" tvg-name="Kabel 1 classics"  group-title="Free TV",Kabel 1 classics
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12803&mode=12
-
-#EXTINF:-1, tvg-id="SAT1gold.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sat1gold.png" tvg-name="Sat 1 gold"  group-title="Free TV",Sat 1 gold
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12807&mode=12
-
-#EXTINF:-1, tvg-id="SAT1emotions.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sat1emotions.png" tvg-name="Sat 1 emotions"  group-title="Free TV",Sat 1 emotions
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12806&mode=12
-
-#EXTINF:-1, tvg-id="SAT1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sat1.png" tvg-name="Sat 1"  group-title="Free TV",Sat 1
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FSAT1%2Fstream_multi.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
-
-#EXTINF:-1, tvg-id="VOX.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/vox.png" tvg-name="VOX"  group-title="Free TV",VOX
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FVOX%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
-
-#EXTINF:-1, tvg-id="3SAT.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/3sat.png" tvg-name="3 Sat"  group-title="Austria TV",3 Sat
-http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2F3sat.png&mode=10&channelid=10657
-
-#EXTINF:-1, tvg-id="N24.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/n24.png" tvg-name="N24"  group-title="Free TV",N24
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4656&mode=12
-
-#EXTINF:-1, tvg-id="NTV.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ntv.png" tvg-name="n-tv"  group-title="Free TV",n-tv
-http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1033%2Fextra_big_logo.png&mode=10&channelid=11830
-
-#EXTINF:-1, tvg-id="SIXX.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sixx.png" tvg-name="Sixx"  group-title="Free TV",Sixx
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4640&mode=12
-
-#EXTINF:-1, tvg-id="DMAX.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/dmax.png" tvg-name="Dmaxx"  group-title="Free TV",Dmaxx
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F17388&mode=12
-
-#EXTINF:-1, tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/arte.png" tvg-name="arte"  group-title="Free TV",arte
-http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Farte.png&mode=10&channelid=10663
-
-#EXTINF:-1, tvg-id="HR.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/hr.png" tvg-name="hr"  group-title="Free TV",hr
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=http%3A%2F%2Flive1_hr-lh.akamaihd.net%2Fi%2Fhr_fernsehen%4075910%2Fmaster.m3u8&mode=12
-
-#EXTINF:-1, tvg-id="MDR.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/mdr.png" tvg-name="mdr"  group-title="Free TV",mdr
-http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Fmdr.png&mode=10&channelid=12062
-
-#EXTINF:-1, tvg-id="NDR.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ndr.png" tvg-name="ndr"  group-title="Free TV",ndr
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12818&mode=12
-
-#EXTINF:-1, tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/wdr.png" tvg-name="wdr"  group-title="Free TV",wdr
-http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Fwdr.png&mode=10&channelid=10666
-
-#EXTINF:-1, tvg-id="SKYaction.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyaction.png" tvg-name="Sky Action"  group-title="Sky",Sky Action
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4672&mode=12
-
-#EXTINF:-1, tvg-id="SKYcinemahits.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyhits.png" tvg-name="Sky Hits"  group-title="Sky",Sky Hits
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F7728&mode=12
-
-#EXTINF:-1, tvg-id="SKYcinema.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skycinema.png" tvg-name="Sky Cinema"  group-title="Sky",Sky Cinema
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4670&mode=12
-
-#EXTINF:-1, tvg-id="SKYcinema1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skycinema1.png" tvg-name="Sky Cinema 1"  group-title="Sky",Sky Cinema 1
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F52955&mode=12
-
-#EXTINF:-1, tvg-id="SKYcinema24.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skycinema24.png" tvg-name="Sky Cinema 24"  group-title="Sky",Sky Cinema 24
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4671&mode=12
-
-#EXTINF:-1, tvg-id="SKYcomedy.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skycomedy.png" tvg-name="Sky Comedy"  group-title="Sky",Sky Comedy
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4673&mode=12
-
-#EXTINF:-1, tvg-id="SKYkrimi.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skykrimi.png" tvg-name="Sky Krimi"  group-title="Sky",Sky Krimi
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F7746&mode=12
-
-#EXTINF:-1, tvg-id="SKYatlantic.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyatlantic.png" tvg-name="Sky Atlantic"  group-title="Sky",Sky Atlantic
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F7728&mode=12
-
-#EXTINF:-1, tvg-id="SKYemotion.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyemotion.png" tvg-name="Sky Emotion"  group-title="Sky",Sky Emotion
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12806&mode=12
-
-#EXTINF:-1, tvg-id="SKYcinemafamily.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyfamily.png" tvg-name="Sky Cinema Family"  group-title="Sky",Sky Cinema Family
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F7729&mode=12
-
-#EXTINF:-1, tvg-id="SKYnostalgie.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skynostalgie.png" tvg-name="Sky Nostalgie"  group-title="Sky",Sky Nostalgie
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4664&mode=12
-
-#EXTINF:-1, tvg-id="SKY1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sky1.png" tvg-name="Sky 1"  group-title="Sky",Sky 1
-http://123.456.789
-
-#EXTINF:-1, tvg-id="NATgeo.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/natgeo.png" tvg-name="National Geografic"  group-title="Doku",National Geografic
-http://123.456.789
-
-#EXTINF:-1, tvg-id="NATgeowild.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/natgeowild.png" tvg-name="NatGeo Wild"  group-title="Doku",NatGeo Wild
-http://123.456.789
-
-#EXTINF:-1, tvg-id="AE.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/a&e.png" tvg-name="A&E"  group-title="Doku",A&E
-http://123.456.789
-
-#EXTINF:-1, tvg-id="HISTORY.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/historych.png" tvg-name="History Channel"  group-title="Doku",History Channel
-http://123.456.789
-
-#EXTINF:-1, tvg-id="DISCOVERY.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/discovery.png" tvg-name="Discovery HD"  group-title="Doku",Discovery HD
-http://123.456.789
-
-#EXTINF:-1, tvg-id="ENTERTAINMENT.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/entertainment.png" tvg-name="Entertainment HD"  group-title="Doku",Entertainment HD
-http://123.456.789
-
-#EXTINF:-1, tvg-id="ANIMALplanet.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/animalplanet.png" tvg-name="Animal Planet HD"  group-title="Doku",Animal Planet HD
-http://123.456.789
-
-#EXTINF:-1, tvg-id="SKYarts.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyarts.png" tvg-name="Sky Arts"  group-title="Sky",Sky Arts
-http://123.456.789
-
-#EXTINF:-1, tvg-id="" tvg-logo="New Logo" tvg-name="teststream"  group-title="test",teststream
-http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4671&mode=12
-
+#EXTINF:-1,Das Erste
+http://localhost:60666/?http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4655
+#EXTINF:-1,Das Erste HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4657
+#EXTINF:-1,Das Erste  HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53004
+#EXTINF:-1,ZDF HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/5842
+#EXTINF:-1,ZDF  HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52929
+#EXTINF:-1,ZDF info HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4636
+#EXTINF:-1,ZDF info HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52928
+#EXTINF:-1,ZDF neo HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12801
+#EXTINF:-1,Pro 7 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4651
+#EXTINF:-1,Pro 7 FUN HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12800
+#EXTINF:-1,Pro 7 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52974
+#EXTINF:-1,Pro 7 Maxx HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4652
+#EXTINF:-1,Pro 7 Maxx  HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52973
+#EXTINF:-1,Kabel 1 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4643
+#EXTINF:-1,Kabel 1 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52991
+#EXTINF:-1,Kabel 1  HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52990
+#EXTINF:-1,Kabel  1 Classics
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12803
+#EXTINF:-1,Kabel 1  DoKu HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12802
+#EXTINF:-1,Kabel 1 Doku HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52992
+#EXTINF:-1,RTL HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4644
+#EXTINF:-1,RTL HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52968
+#EXTINF:-1,RTL 2 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4645
+#EXTINF:-1,RTL 2 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52971
+#EXTINF:-1,RTL Living HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4648
+#EXTINF:-1,RTL Nitro
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4646
+#EXTINF:-1,RTL Nitro HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52967
+#EXTINF:-1,RTL Crime  HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52970
+#EXTINF:-1,RTL Crime  HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4663
+#EXTINF:-1,RTL Passion HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4662
+#EXTINF:-1,RTL Passion HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52965
+#EXTINF:-1,RTL  Plus
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12813
+#EXTINF:-1,RTL Plus HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52964
+#EXTINF:-1,Sat 1 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4642
+#EXTINF:-1,Sat 1 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52963
+#EXTINF:-1,Sat 1 emotions HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12806
+#EXTINF:-1,Sat 1 Gold HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12807
+#EXTINF:-1,Sat 1 Gold HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52962
+#EXTINF:-1,VOX HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4637
+#EXTINF:-1,VOX HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52932
+#EXTINF:-1,3SAT HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12830
+#EXTINF:-1,3sat HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53010
+#EXTINF:-1,N24 News HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4656
+#EXTINF:-1,Sixx HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4640
+#EXTINF:-1,ORF 1 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4638
+#EXTINF:-1,ORF 2 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4639
+#EXTINF:-1,ORF 3 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12804
+#EXTINF:-1,ORF Sport HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12805
+#EXTINF:-1,ORF SPORT HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52978
+#EXTINF:-1,ORF SPORT   HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52977
+#EXTINF:-1,ANNIXE
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12829
+#EXTINF:-1,ARD HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12828
+#EXTINF:-1,Arte HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12827
+#EXTINF:-1,Arte HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53006
+#EXTINF:-1,ATV
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12826
+#EXTINF:-1,Classica
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12824
+#EXTINF:-1,DMAX HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/17388
+#EXTINF:-1,DMAX HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52999
+#EXTINF:-1,AUSTRIA 24
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12825
+#EXTINF:-1,FC Bayern TV HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12822
+#EXTINF:-1,Hr HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12821
+#EXTINF:-1,MDR HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12819
+#EXTINF:-1,Ndr HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12818
+#EXTINF:-1,Anixe HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51272
+#EXTINF:-1,NTV
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12817
+#EXTINF:-1,NTV HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52981
+#EXTINF:-1,DW TV
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51239
+#EXTINF:-1,Euronews.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51231
+#EXTINF:-1,Euronews  HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52997
+#EXTINF:-1,Family TV HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51226
+#EXTINF:-1,MTV HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51166
+#EXTINF:-1,MTV HITS HD.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51165
+#EXTINF:-1,MUNCHEN TV
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51164
+#EXTINF:-1,NRJ TV HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51155
+#EXTINF:-1,Phoenix HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12816
+#EXTINF:-1,Servus TV
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12812
+#EXTINF:-1,Romance TV HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12814
+#EXTINF:-1,TAGESSCHAU 24
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12811
+#EXTINF:-1,Zee One
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12808
+#EXTINF:-1,Anixe HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53007
+#EXTINF:-1,Family TV  HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52996
+#EXTINF:-1,Kinowelt TV HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52988
+#EXTINF:-1,MTV HD+..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52986
+#EXTINF:-1,One HD +
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52980
+#EXTINF:-1,Phoenix HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52976
+#EXTINF:-1,Plus 8 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52975
+#EXTINF:-1,Romance TV HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52972
+#EXTINF:-1,Sixx HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52959
+#EXTINF:-1,TELE 5 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52940
+#EXTINF:-1,TLC HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52939
+#EXTINF:-1,Universal HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52934
+#EXTINF:-1,VIVA HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52933
+#EXTINF:-1,WDR HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12810
+#EXTINF:-1,---- DE-KIDS ----
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51325
+#EXTINF:-1,Junior
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12820
+#EXTINF:-1,Baby TV.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51265
+#EXTINF:-1,KIKA HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7780
+#EXTINF:-1,KIKA HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52989
+#EXTINF:-1,TOGGO HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52935
+#EXTINF:-1,SUPER RTL HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4650
+#EXTINF:-1,Super RTL HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52943
+#EXTINF:-1,Boomerang HD..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7766
+#EXTINF:-1,Cartoon Network HD+.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53005
+#EXTINF:-1,Cartoon Network.HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7772
+#EXTINF:-1,Nickellodeon
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4658
+#EXTINF:-1,Nickelodeon HD+.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52982
+#EXTINF:-1,Disney XD.HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4681
+#EXTINF:-1,Disney XD  HD +
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53000
+#EXTINF:-1,Disney Channel.HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7769
+#EXTINF:-1,Disney Junior HD +
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53001
+#EXTINF:-1,Disney Junior.HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4680
+#EXTINF:-1,Disney Cinemagic.HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4682
+#EXTINF:-1,Disney Cinemagic HD+.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53002
+#EXTINF:-1,---- DE - DOC ----
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51328
+#EXTINF:-1,NAT GEO HD..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4665
+#EXTINF:-1,NAT GEO HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52984
+#EXTINF:-1,NAT GEO WILD  HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7756
+#EXTINF:-1,NAT GEO WILD HD+.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52983
+#EXTINF:-1,A&E HD..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7750
+#EXTINF:-1,A&E HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53009
+#EXTINF:-1,History Channel HD.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7759
+#EXTINF:-1,History HD +
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52993
+#EXTINF:-1,Discovery HD+..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53003
+#EXTINF:-1,Discovery HD..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7754
+#EXTINF:-1,E! Entertainment HD..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7751
+#EXTINF:-1,E! Entertainment  HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52998
+#EXTINF:-1,Animal Planet HD..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7758
+#EXTINF:-1,Animal Planet HD+.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53008
+#EXTINF:-1,---- DE- CINE  ----
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51326
+#EXTINF:-1,SKY Cinema Nostalgie HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4664
+#EXTINF:-1,Sky Cinema Nostalgie HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52947
+#EXTINF:-1,Sky Cinema Comedy HD.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4673
+#EXTINF:-1,Sky Cinema Comedy HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52952
+#EXTINF:-1,SKY Cinema HD..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4670
+#EXTINF:-1,Sky Cinema HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52949
+#EXTINF:-1,Sky Cinema +24 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4671
+#EXTINF:-1,Sky Cinema +24 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52954
+#EXTINF:-1,Sky Cinema Atlantic HD.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4675
+#EXTINF:-1,Sky Cinema Atlantic HD +
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52956
+#EXTINF:-1,Sky Cinema Action HD.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4672
+#EXTINF:-1,Sky Cinema Action HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52953
+#EXTINF:-1,SKY CIinema Family HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7729
+#EXTINF:-1,SKY Cinema Family  HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52950
+#EXTINF:-1,SKY Cinema Hits HD.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7728
+#EXTINF:-1,Sky Cinema Hits HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52948
+#EXTINF:-1,Sky Cinema Krimi HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7746
+#EXTINF:-1,Sky Cinema Krimi HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52946
+#EXTINF:-1,SKY 1 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52958
+#EXTINF:-1,Sky Arts HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52957
+#EXTINF:-1,Sky Cinema +1 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52955
+#EXTINF:-1,Sky Cinema Emotion HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52951
+#EXTINF:-1,TNT Film HD..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7747
+#EXTINF:-1,TNT Film HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52937
+#EXTINF:-1,TNT Comedy HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7749
+#EXTINF:-1,TNT Comedy HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52938
+#EXTINF:-1,TNT Series HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52936
+#EXTINF:-1,13th Street HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/53011
+#EXTINF:-1,13 th Street HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4677
+#EXTINF:-1,FOX! HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/50330
+#EXTINF:-1,FOX HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4660
+#EXTINF:-1,Fox Serie  HD +
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52994
+#EXTINF:-1,AXN HD..
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51266
+#EXTINF:-1,MGM HD'
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51189
+#EXTINF:-1,TLC HD.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51008
+#EXTINF:-1,Goldstar HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7752
+#EXTINF:-1,Heimatkanal HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7762
+#EXTINF:-1,Kinowelt TV HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7744
+#EXTINF:-1,Planet HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7753
+#EXTINF:-1,Sony Entertaiment TV HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7736
+#EXTINF:-1,Spiegel Geschichte HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7760
+#EXTINF:-1,Spiegel TV Wissen HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7763
+#EXTINF:-1,Universal HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7741
+#EXTINF:-1,SKY Select 1 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7781
+#EXTINF:-1,SKY Select 2 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7782
+#EXTINF:-1,SKY Select 3 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7783
+#EXTINF:-1,SKY Select 4 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7784
+#EXTINF:-1,SKY Select 5 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7785
+#EXTINF:-1,SKY Select  8 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7788
+#EXTINF:-1,SKY Select 9 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7789
+#EXTINF:-1,Sky Select 10 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/9665
+#EXTINF:-1,Fight Channel HD'
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51225
+#EXTINF:-1,FILM CLUB 1 FHD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51224
+#EXTINF:-1,FILM CLUB 2 FHD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51223
+#EXTINF:-1,FILM CLUB 3 FHD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51222
+#EXTINF:-1,FILM CLUB 4 FHD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51221
+#EXTINF:-1,FILM CLUB 5 FHD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51220
+#EXTINF:-1,MOVIESINEMA 1 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51172
+#EXTINF:-1,MOVIESINEMA 2 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51171
+#EXTINF:-1,MOVIESINEMA 3 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51170
+#EXTINF:-1,MOVIESINEMA 4 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51169
+#EXTINF:-1,POPCORN SELECT 1 FHD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51140
+#EXTINF:-1,POPCORN SELECT 2 FHD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51139
+#EXTINF:-1,POPCORN SELECT 3 FHD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51138
+#EXTINF:-1,POPCORN SELECT 4 FHD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51137
+#EXTINF:-1,POPCORN SELECT 5 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51136
+#EXTINF:-1,POPCORN SELECT 6 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51135
+#EXTINF:-1,POPCORN SELECT 7 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51134
+#EXTINF:-1,---- DE - SPORT ----
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51327
+#EXTINF:-1,Eurosport 1 HD+.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52484
+#EXTINF:-1,Eurosport 1 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4683
+#EXTINF:-1,Eurosport 2 HD+.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52482
+#EXTINF:-1,Eurosport 2 Xtra 4K
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52481
+#EXTINF:-1,Motorvision TV HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52987
+#EXTINF:-1,FC Bayern TV HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52995
+#EXTINF:-1,Sky Sport News HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4685
+#EXTINF:-1,Sky Sport Austria HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16044
+#EXTINF:-1,DAZN 1 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52424
+#EXTINF:-1,DAZN 2 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52423
+#EXTINF:-1,DAZN BAR 1 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29411
+#EXTINF:-1,DAZN BAR 2 HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29412
+#EXTINF:-1,Sky Sport 1 HD.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4686
+#EXTINF:-1,Sky Sport 2 HD.
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4687
+#EXTINF:-1,Sky Sport 3 HD (Match Time).
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16039
+#EXTINF:-1,Sky Sport 4 HD (Match Time).
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16038
+#EXTINF:-1,Sky Sport 5 HD (Match Time).
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16037
+#EXTINF:-1,Sky Sport 6 HD (Match Time).
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16036
+#EXTINF:-1,Sky Sport 7 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16035
+#EXTINF:-1,Sky Sport 8 HD (Match Time).
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16034
+#EXTINF:-1,Sky Sport 9 HD (Match Time).
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16033
+#EXTINF:-1,Sky Sport 10 HD (Match Time).
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16032
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7809
+#EXTINF:-1,Sky Sport Bundesliga 2 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7810
+#EXTINF:-1,Sky Sport Bundesliga 3 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7811
+#EXTINF:-1,Sky Sport Bundesliga 4 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16026
+#EXTINF:-1,Sky Sport Bundesliga 5 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7813
+#EXTINF:-1,Sky Sport Bundesliga 6 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16024
+#EXTINF:-1,Sky Sport Bundesliga 7 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16023
+#EXTINF:-1,Sky Sport Bundesliga 8 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16022
+#EXTINF:-1,Sky Sport Bundesliga 9 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16021
+#EXTINF:-1,Sky Sport Bundesliga 10 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16020
+#EXTINF:-1,Sky Sport News 4K
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51294
+#EXTINF:-1,Sky Sport Austria HD+
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51295
+#EXTINF:-1,Sky Sport 1 4K
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51293
+#EXTINF:-1,Sky Sport 2 4K
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51292
+#EXTINF:-1,Sky Sport 3 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51291
+#EXTINF:-1,Sky Sport 4 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51290
+#EXTINF:-1,Sky Sport 5 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51289
+#EXTINF:-1,Sky Sport 6 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51288
+#EXTINF:-1,Sky Sport 7 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51287
+#EXTINF:-1,Sky Sport 8 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51286
+#EXTINF:-1,Sky Sport 9 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51305
+#EXTINF:-1,Sky Sport 10 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51304
+#EXTINF:-1,Sky Sport 11 HD (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51303
+#EXTINF:-1,Sky Sport Bundesliga 1 4K
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51302
+#EXTINF:-1,Sky Sport Bundesliga 2 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51301
+#EXTINF:-1,Sky Sport Bundesliga 3 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51300
+#EXTINF:-1,Sky Sport Bundesliga 4 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51299
+#EXTINF:-1,Sky Sport Bundesliga 5 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51298
+#EXTINF:-1,Sky Sport Bundesliga 6 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51297
+#EXTINF:-1,Sky Sport Bundesliga 7 4K  (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51296
+#EXTINF:-1,Sky Sport Bundesliga 8 4K (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51317
+#EXTINF:-1,Sky Sport Bundesliga 9 4K (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51316
+#EXTINF:-1,Sky Sport Bundesliga 10 4K (Match Time)
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51315

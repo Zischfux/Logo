@@ -1,17 +1,29 @@
 ﻿#EXTM3U
 
 
+
+
+
+
+
+
+
 #EXTINF:-1, tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf1.png" tvg-name="ORF 1"  group-title="Austria TV",ORF 1
-https://tv.si/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&amp;mode=12
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 
 #EXTINF:-1, tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf2.png" tvg-name="ORF 2"  group-title="Austria TV",ORF 2
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 
+
+
 #EXTINF:-1, tvg-id="ORF3.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf3.png" tvg-name="ORF 3"  group-title="Austria TV",ORF 3
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12804&mode=12
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12804
+
+
+
 
 #EXTINF:-1, tvg-id="ORFsport.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orfsport.png" tvg-name="ORF Sport"  group-title="Austria TV",ORF Sport
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12805&mode=12
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12805
 
 
 #EXTINF:-1, tvg-id="ATV.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/atv.png" tvg-name="ATV"  group-title="Austria TV",ATV
@@ -21,22 +33,37 @@ https://gcdn.2mdn.net/api/manifest/hls_playlist/id/58ff5b5e0aeae203/itag/91/sour
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 
 #EXTINF:-1, tvg-id="PRO7fun.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/pro7fun.png" tvg-name="Pro7fun"  group-title="Free TV",Pro7fun
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12800&mode=12
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12800
 
 #EXTINF:-1, tvg-id="PRO7maxx.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/pro7maxx.png" tvg-name="Pro7maxx"  group-title="Free TV",Pro7maxx
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4652&mode=12
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4652
 
 #EXTINF:-1, tvg-id="SERVUS.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/servustv.png" tvg-name="ServusTV"  group-title="Free TV",ServusTV
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12812&mode=12
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12812
+
+
+
+
+
+
+
 
 #EXTINF:-1, tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/zdf.png" tvg-name="ZDF"  group-title="Free TV",ZDF
-http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=http%3A%2F%2F80.238.134.35%3A80%2FZDF%2Findex.m3u8&mode=12
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/5842
 
 #EXTINF:-1, tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/zdfinfo.png" tvg-name="ZDfinfo"  group-title="Free TV",ZDfinfo
-http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=&mode=10&channelid=10636
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4636
 
 #EXTINF:-1, tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/zdfneo.png" tvg-name="ZDFneo"  group-title="Free TV",ZDFneo
-http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F360%2Fextra_big_logo.png&mode=10&channelid=10633
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12801
+
+
+
+
+
+
+
+
 
 #EXTINF:-1, tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtl.png" tvg-name="RTL"  group-title="Free TV",RTL
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FRTL%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12

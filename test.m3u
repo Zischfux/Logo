@@ -176,33 +176,41 @@ http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2F
 #EXTINF:-1, tvg-id="SKYnostalgie.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skynostalgie.png" tvg-name="Sky Nostalgie"  group-title="Sky",Sky Nostalgie
 http://localhost:60666/?plugin://plugin.video.phoenixreborn/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%26name%3DGERMANY%3Burl%3Dhttp%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4664&mode=12
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, tvg-id="SKY1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sky1.png" tvg-name="Sky 1"  group-title="Sky",Sky 1
-http://123.456.789
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52958
 
 #EXTINF:-1, tvg-id="NATgeo.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/natgeo.png" tvg-name="National Geografic"  group-title="Doku",National Geografic
-http://123.456.789
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4665
 
 #EXTINF:-1, tvg-id="NATgeowild.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/natgeowild.png" tvg-name="NatGeo Wild"  group-title="Doku",NatGeo Wild
-http://123.456.789
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7756
 
 #EXTINF:-1, tvg-id="AE.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/a&e.png" tvg-name="A&E"  group-title="Doku",A&E
-http://123.456.789
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7750
 
 #EXTINF:-1, tvg-id="HISTORY.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/historych.png" tvg-name="History Channel"  group-title="Doku",History Channel
-http://123.456.789
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7759
 
 #EXTINF:-1, tvg-id="DISCOVERY.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/discovery.png" tvg-name="Discovery HD"  group-title="Doku",Discovery HD
-http://123.456.789
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7754
 
 #EXTINF:-1, tvg-id="ENTERTAINMENT.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/entertainment.png" tvg-name="Entertainment HD"  group-title="Doku",Entertainment HD
-http://123.456.789
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52998
 
 #EXTINF:-1, tvg-id="ANIMALplanet.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/animalplanet.png" tvg-name="Animal Planet HD"  group-title="Doku",Animal Planet HD
-http://123.456.789
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7758
 
 #EXTINF:-1, tvg-id="SKYarts.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyarts.png" tvg-name="Sky Arts"  group-title="Sky",Sky Arts
-http://123.456.789
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52957
 
-#EXTINF:-1, tvg-id="" tvg-logo="New Logo" tvg-name="teststream"  group-title="test",teststream
-http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4671&mode=12
 

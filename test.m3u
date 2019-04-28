@@ -12,7 +12,7 @@ https://gcdn.2mdn.net/api/manifest/hls_playlist/id/58ff5b5e0aeae203/itag/91/sour
 #EXTINF:-1, tvg-id="PRO7.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/pro7.png" tvg-name="Pro7"  group-title="Free TV",Pro7
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="PRO7fun.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/pro7fun.png" tvg-name="Pro7fun"  group-title="Free TV",Pro7fun
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12800
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Pro7fun;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12800
 #EXTINF:-1, tvg-id="PRO7maxx.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/pro7maxx.png" tvg-name="Pro7maxx"  group-title="Free TV",Pro7maxx
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4652
 #EXTINF:-1, tvg-id="SERVUS.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/servustv.png" tvg-name="ServusTV"  group-title="Free TV",ServusTV

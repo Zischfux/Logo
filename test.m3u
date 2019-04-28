@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1, tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf1.png" tvg-name="ORF 1"  group-title="Austria TV",ORF 1
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12&mode=12&mode=12
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf2.png" tvg-name="ORF 2"  group-title="Austria TV",ORF 2
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12&mode=12&mode=12
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="ORF3.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf3.png" tvg-name="ORF 3"  group-title="Austria TV",ORF 3
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12804
 #EXTINF:-1, tvg-id="ORFsport.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orfsport.png" tvg-name="ORF Sport"  group-title="Austria TV",ORF Sport
@@ -24,9 +24,9 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/zdfneo.png" tvg-name="ZDFneo"  group-title="Free TV",ZDFneo
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12801
 #EXTINF:-1, tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtl.png" tvg-name="RTL"  group-title="Free TV",RTL
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/RTL/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/RTL/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="RTL2.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtl2.png" tvg-name="RTL2"  group-title="Free TV",RTL2
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/RTL2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/RTL2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="RTL3.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlliving.png" tvg-name="RTL Living"  group-title="Free TV",RTL Living
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4648
 #EXTINF:-1, tvg-id="RTLpassion.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlpassion.png" tvg-name="RTL Passion"  group-title="Free TV",RTL Passion

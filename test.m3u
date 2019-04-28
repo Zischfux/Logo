@@ -151,7 +151,7 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 
 
 
-#EXTINF:-1, tvg-id="13th" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/13thstreet.png" tvg-name="13th Street"  group-title="Sky",13th Street
+#EXTINF:-1, tvg-id="SKY13TH.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/13thstreet.png" tvg-name="13th Street"  group-title="Sky",13th Street
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4677
 
 #EXTINF:-1, tvg-id="Fox" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/fox.png" tvg-name="Fox"  group-title="Sky",Fox

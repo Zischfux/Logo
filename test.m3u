@@ -11,7 +11,6 @@
 
 
 
-
 #EXTINF:-1, tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf1.png" tvg-name="ORF 1"  group-title="Austria TV",ORF 1
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf2.png" tvg-name="ORF 2"  group-title="Austria TV",ORF 2
@@ -98,6 +97,15 @@ http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconim
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12818
 #EXTINF:-1, tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/wdr.png" tvg-name="wdr"  group-title="Free TV",wdr
 http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http://images.live-stream.tv/picons/wdr.png&mode=10&channelid=10666
+
+
+
+
+#EXTINF:-1, tvg-id="SKY1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sky1.png" tvg-name="Sky 1"  group-title="Sky",Sky 1
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52958
+
+
+
 #EXTINF:-1, tvg-id="SKYaction.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyaction.png" tvg-name="Sky Action"  group-title="Sky",Sky Action
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4672
 #EXTINF:-1, tvg-id="SKYcinemahits.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyhits.png" tvg-name="Sky Hits"  group-title="Sky",Sky Hits
@@ -120,8 +128,9 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7729
 #EXTINF:-1, tvg-id="SKYnostalgie.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skynostalgie.png" tvg-name="Sky Nostalgie"  group-title="Sky",Sky Nostalgie
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4664
-#EXTINF:-1, tvg-id="SKY1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sky1.png" tvg-name="Sky 1"  group-title="Sky",Sky 1
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52958
+#EXTINF:-1, tvg-id="SKYarts.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyarts.png" tvg-name="Sky Arts"  group-title="Sky",Sky Arts
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52957
+
 #EXTINF:-1, tvg-id="NATgeo.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/natgeo.png" tvg-name="National Geografic"  group-title="Doku",National Geografic
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4665
 #EXTINF:-1, tvg-id="NATgeowild.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/natgeowild.png" tvg-name="NatGeo Wild"  group-title="Doku",NatGeo Wild
@@ -136,5 +145,34 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52998
 #EXTINF:-1, tvg-id="ANIMALplanet.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/animalplanet.png" tvg-name="Animal Planet HD"  group-title="Doku",Animal Planet HD
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7758
-#EXTINF:-1, tvg-id="SKYarts.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyarts.png" tvg-name="Sky Arts"  group-title="Sky",Sky Arts
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52957
+
+
+
+
+
+
+#EXTINF:-1, tvg-id="13th" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/13thstreet.png" tvg-name="13th Street"  group-title="Sky",13th Street
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4677
+
+#EXTINF:-1, tvg-id="Fox" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/fox.png" tvg-name="Fox"  group-title="Sky",Fox
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4660
+
+#EXTINF:-1, tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/axn.png" tvg-name="AXN"  group-title="Sky",AXN
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51266
+
+#EXTINF:-1, tvg-id="MGM" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/mgm.png" tvg-name="MGM"  group-title="Sky",MGM
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51189
+
+
+#EXTINF:-1, tvg-id="TLC" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/tlc.png" tvg-name="TLC"  group-title="Sky",TLC
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51008
+
+#EXTINF:-1, tvg-id="Goldstar" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/goldstar.png" tvg-name="Goldstar"  group-title="Sky",Goldstar
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7752
+
+#EXTINF:-1, tvg-id="Heimatkanal" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/heimatkanal.png" tvg-name="Heimatkanal"  group-title="Sky",Heimatkanal
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7762
+
+
+
+

@@ -52,7 +52,7 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="SAT1emotions.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sat1emotions.png" tvg-name="Sat 1 emotions"  group-title="Free TV",Sat 1 emotions
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12806
 #EXTINF:-1, tvg-id="SAT1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sat1.png" tvg-name="Sat 1"  group-title="Free TV",Sat 1
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/SAT1/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FSAT1%2Fstream_multi.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
 #EXTINF:-1, tvg-id="VOX.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/vox.png" tvg-name="VOX"  group-title="Free TV",VOX
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/VOX/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 #EXTINF:-1, tvg-id="3SAT.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/3sat.png" tvg-name="3 Sat"  group-title="Austria TV",3 Sat

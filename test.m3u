@@ -24,9 +24,9 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/zdfneo.png" tvg-name="ZDFneo"  group-title="Free TV",ZDFneo
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12801
 #EXTINF:-1, tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtl.png" tvg-name="RTL"  group-title="Free TV",RTL
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/RTL/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FRTL%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="RTL2.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtl2.png" tvg-name="RTL2"  group-title="Free TV",RTL2
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/RTL2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FRTL2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="RTL3.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlliving.png" tvg-name="RTL Living"  group-title="Free TV",RTL Living
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4648
 #EXTINF:-1, tvg-id="RTLpassion.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlpassion.png" tvg-name="RTL Passion"  group-title="Free TV",RTL Passion
@@ -36,13 +36,13 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="RTLplus.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlplus.png" tvg-name="RTL plus"  group-title="Free TV",RTL plus
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52964
 #EXTINF:-1, tvg-id="SUPER.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/superrtl.png" tvg-name="Super RTL"  group-title="Free TV",Super RTL
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/SUPERRTL/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FSUPERRTL%2Fstream_multi.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
 #EXTINF:-1, tvg-id="RTLnitro.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/rtlnitro.png" tvg-name="RTL nitro"  group-title="Free TV",RTL nitro
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4646
 #EXTINF:-1, tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ard.png" tvg-name="Das erste"  group-title="Free TV",Das erste
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/ARD/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FARD%2Fstream_multi.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
 #EXTINF:-1, tvg-id="KABEL1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/kabel1.png" tvg-name="Kabel 1"  group-title="Free TV",Kabel 1
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/KABEL1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FKABEL1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
 #EXTINF:-1, tvg-id="KABEL1d.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/kabel1doku.png" tvg-name="Kabel 1 doku"  group-title="Free TV",Kabel 1 doku
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12802
 #EXTINF:-1, tvg-id="KABEL1c.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/kabel1classics.png" tvg-name="Kabel 1 classics"  group-title="Free TV",Kabel 1 classics
@@ -54,7 +54,7 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="SAT1.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/sat1.png" tvg-name="Sat 1"  group-title="Free TV",Sat 1
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FSAT1%2Fstream_multi.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
 #EXTINF:-1, tvg-id="VOX.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/vox.png" tvg-name="VOX"  group-title="Free TV",VOX
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/VOX/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
+http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FVOX%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&mode=12
 #EXTINF:-1, tvg-id="3SAT.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/3sat.png" tvg-name="3 Sat"  group-title="Austria TV",3 Sat
 http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconimage=http://images.live-stream.tv/picons/3sat.png&mode=10&channelid=10657
 #EXTINF:-1, tvg-id="N24.de" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/n24.png" tvg-name="N24"  group-title="Free TV",N24

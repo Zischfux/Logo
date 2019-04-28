@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1, tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf1.png" tvg-name="ORF 1"  group-title="Austria TV",ORF 1
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=url=https://tv.si/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&amp;mode=12
+http://localhost:60666/?plugin://plugin.video.f4mTester/?https://tv.si/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&amp;mode=12
 
 #EXTINF:-1, tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/orf2.png" tvg-name="ORF 2"  group-title="Austria TV",ORF 2
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https://tv.si/ts/ORF2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12

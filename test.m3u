@@ -176,3 +176,27 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 
 
 
+
+
+#EXTINF:-1, SKYsport1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport1.png" tvg-name="Skysport1"  group-title="Sport",Sky Sport 1
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4686
+#EXTINF:-1, SKYsport2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport2.png" tvg-name="Skysport2"  group-title="Sport",Sky Sport 2
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4687
+#EXTINF:-1, SKYsport3" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport3.png" tvg-name="Skysport3"  group-title="Sport",Sky Sport 3
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16039
+#EXTINF:-1, SKYsport4" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport4.png" tvg-name="Skysport4"  group-title="Sport",Sky Sport 4
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16038
+#EXTINF:-1, SKYsport5" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport5.png" tvg-name="Skysport5"  group-title="Sport",Sky Sport 5
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16037
+#EXTINF:-1, SKYsport6" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport6.png" tvg-name="Skysport6"  group-title="Sport",Sky Sport 6
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16036
+#EXTINF:-1, SKYsport7" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport7.png" tvg-name="Skysport7"  group-title="Sport",Sky Sport 7
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16035
+#EXTINF:-1, SKYsport8" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport8.png" tvg-name="Skysport8"  group-title="Sporpt",Sky Sport 8
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16034
+#EXTINF:-1, SKYsport9" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport9.png" tvg-name="Skysport9"  group-title="Sport",Sky Sport 9
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16033
+#EXTINF:-1, SKYsport10" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport10.png" tvg-name="Skysport10"  group-title="Sport",Sky Sport 10
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16032
+
+

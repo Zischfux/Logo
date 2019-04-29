@@ -179,7 +179,6 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 
 #EXTINF:-1, tvg-id="SKYsportaustria" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysportaustria.png" tvg-name="Skysportaustria"  group-title="Sport",Sky Sport Austria
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51295
-
 #EXTINF:-1, tvg-id="SKYsport1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport1.png" tvg-name="Skysport1"  group-title="Sport",Sky Sport 1
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4686
 #EXTINF:-1, tvg-id="SKYsport2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport2.png" tvg-name="Skysport2"  group-title="Sport",Sky Sport 2

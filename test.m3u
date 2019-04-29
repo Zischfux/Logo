@@ -192,7 +192,7 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16036
 #EXTINF:-1, tvg-id="SKYsport7" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport7.png" tvg-name="Skysport7"  group-title="Sport",Sky Sport 7
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16035
-#EXTINF:-1, tvg-id="SKYsport8" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport8.png" tvg-name="Skysport8"  group-title="Sporpt",Sky Sport 8
+#EXTINF:-1, tvg-id="SKYsport8" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport8.png" tvg-name="Skysport8"  group-title="Sport",Sky Sport 8
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16034
 #EXTINF:-1, tvg-id="SKYsport9" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skysport9.png" tvg-name="Skysport9"  group-title="Sport",Sky Sport 9
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16033
@@ -201,23 +201,23 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 
 
 
-#EXTINF:-1, tvg-id="SKYBundesliga1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga1.png" tvg-name="bundesliga 1"  group-title="Sport",Sky bundesliga 1
+#EXTINF:-1, tvg-id="SKYBundesliga1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga1.png" tvg-name="bundesliga 1"  group-title="Sport",Sky Bundesliga 1
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7809
-#EXTINF:-1, tvg-id="SKYBundesliga2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga2.png" tvg-name="bundesliga 2"  group-title="Sport",Sky bundesliga 2http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7810
-#EXTINF:-1, tvg-id="SKYBundesliga3" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga3.png" tvg-name="bundesliga 3"  group-title="Sport",Sky bundesliga 3
+#EXTINF:-1, tvg-id="SKYBundesliga2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga2.png" tvg-name="bundesliga 2"  group-title="Sport",Sky Bundesliga 2http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7810
+#EXTINF:-1, tvg-id="SKYBundesliga3" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga3.png" tvg-name="bundesliga 3"  group-title="Sport",Sky Bundesliga 3
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7811
-#EXTINF:-1, tvg-id="SKYBundesliga4" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga4.png" tvg-name="bundesliga 4"  group-title="Sport",Sky bundesliga 4
+#EXTINF:-1, tvg-id="SKYBundesliga4" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga4.png" tvg-name="bundesliga 4"  group-title="Sport",Sky Bundesliga 4
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16026
-#EXTINF:-1, tvg-id="SKYBundesliga5" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga5.png" tvg-name="bundesliga 5"  group-title="Sport",Sky bundesliga 5
+#EXTINF:-1, tvg-id="SKYBundesliga5" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga5.png" tvg-name="bundesliga 5"  group-title="Sport",Sky Bundesliga 5
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7813
-#EXTINF:-1, tvg-id="SKYBundesliga6" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga6.png" tvg-name="bundesliga 6"  group-title="Sport",Sky bundesliga 6
+#EXTINF:-1, tvg-id="SKYBundesliga6" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga6.png" tvg-name="bundesliga 6"  group-title="Sport",Sky Bundesliga 6
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16024
-#EXTINF:-1, tvg-id="SKYBundesliga7" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga7.png" tvg-name="bundesliga 7"  group-title="Sport",Sky bundesliga 7
+#EXTINF:-1, tvg-id="SKYBundesliga7" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga7.png" tvg-name="bundesliga 7"  group-title="Sport",Sky Bundesliga 7
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16023
-#EXTINF:-1, tvg-id="SKYBundesliga8" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga8.png" tvg-name="bundesliga 8"  group-title="Sport",Sky bundesliga 8
+#EXTINF:-1, tvg-id="SKYBundesliga8" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga8.png" tvg-name="bundesliga 8"  group-title="Sport",Sky Bundesliga 8
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16022
-#EXTINF:-1, tvg-id="SKYBundesliga9" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga9.png" tvg-name="bundesliga 9"  group-title="Sport",Sky bundesliga 9
+#EXTINF:-1, tvg-id="SKYBundesliga9" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga9.png" tvg-name="bundesliga 9"  group-title="Sport",Sky Bundesliga 9
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16021
-#EXTINF:-1, tvg-id="SKYBundesliga10" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga10.png" tvg-name="bundesliga 10"  group-title="Sport",Sky bundesliga 10
+#EXTINF:-1, tvg-id="SKYBundesliga10" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga10.png" tvg-name="bundesliga 10"  group-title="Sport",Sky Bundesliga 10
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16020
 

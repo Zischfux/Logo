@@ -167,11 +167,39 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="TLC" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/tlc.png" tvg-name="TLC"  group-title="Sky",TLC
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51008
 
-#EXTINF:-1, tvg-id="Goldstar" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/goldstar.png" tvg-name="Goldstar"  group-title="Sky",Goldstar
+#EXTINF:-1, tvg-id="SKYgoldstar" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/goldstar.png" tvg-name="Goldstar"  group-title="Sky",Goldstar
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7752
 
-#EXTINF:-1, tvg-id="Heimatkanal" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/heimatkanal.png" tvg-name="Heimatkanal"  group-title="Sky",Heimatkanal
+#EXTINF:-1, tvg-id="SKYheimatkanal" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/heimatkanal.png" tvg-name="Heimatkanal"  group-title="Sky",Heimatkanal
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7762
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id="SKYselect1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyselect1.png" tvg-name="Sky Select 1"  group-title="Sky",Sky Select 1
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7781
+#EXTINF:-1, tvg-id="SKYselect2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyselect2.png" tvg-name="Sky Select 2"  group-title="Sky",Sky Select 2
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7782
+#EXTINF:-1, tvg-id="SKYselect3" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyselect3.png" tvg-name="Sky Select 3"  group-title="Sky",Sky Select 3
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7783
+#EXTINF:-1, tvg-id="SKYselect4" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyselect1.png" tvg-name="Sky Select 4"  group-title="Sky",Sky Select 4
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7784
+#EXTINF:-1, tvg-id="SKYselect5" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyselect5.png" tvg-name="Sky Select 5"  group-title="Sky",Sky Select 5
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7785
+#EXTINF:-1, tvg-id="SKYselect8" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyselect8.png" tvg-name="Sky Select 8"  group-title="Sky",Sky Select 8
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7788
+#EXTINF:-1, tvg-id="SKYselect9" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyselect9.png" tvg-name="Sky Select 9"  group-title="Sky",Sky Select 9
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7789
+#EXTINF:-1, tvg-id="SKYselect10" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skyselect10.png" tvg-name="Sky Select 10"  group-title="Sky",Sky Select 10
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/9665
+
+
+
 
 
 
@@ -226,4 +254,28 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16021
 #EXTINF:-1, tvg-id="SKYBundesliga10" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/skybundesliga10.png" tvg-name="bundesliga 10"  group-title="Sport",Sky Bundesliga 10
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/16020
+
+
+#EXTINF:-1, tvg-id="Eurosport1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/eurosport.png" tvg-name="eurosport"  group-title="Sport",Eurosport 1
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4683
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/dazn.png" tvg-name="dazn1"  group-title="Sport",DAZN 1
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52424
+#EXTINF:-1, tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/dazn.png" tvg-name="dazn2"  group-title="Sport",DAZN 2
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52423
+#EXTINF:-1,DAZN BAR 1 HD+
+#EXTINF:-1, tvg-id="DAZN  BAR 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/dazn.png" tvg-name="daznbar1"  group-title="Sport",DAZN BAR 1
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29411
+#EXTINF:-1, tvg-id="DAZN  BAR 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/dazn.png" tvg-name="daznbar2"  group-title="Sport",DAZN BAR 2
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29412
+
 

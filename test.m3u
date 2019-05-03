@@ -214,7 +214,7 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29419
 #EXTINF:-1, tvg-id="Spiegel Geschichte" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SpiegelGeschichte.png" tvg-name="Spiegel Geschichte"  group-title="Doku",Spiegel Geschichte 
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29420
-#EXTINF:-1, tvg-id="Spiegel TV Wissem" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SpiegelTVWissem.png" tvg-name="Spiegel TV Wissem"  group-title="Doku",Spiegel TV Wissem 
+#EXTINF:-1, tvg-id="Spiegel TV Wissen" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SpiegelTVWissen.png" tvg-name="Spiegel TV Wissen"  group-title="Doku",Spiegel TV Wissen 
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29421
 #EXTINF:-1, tvg-id="Universal HD" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/UniversalHD.png" tvg-name="Universal HD"  group-title="Sky usw…",Universal HD 
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29422

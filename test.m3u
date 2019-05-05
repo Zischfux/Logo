@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="Teststream" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Teststream.png" tvg-name="Teststream"  group-title="Austria",Testsream
+http://localhost:62666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv.si/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12&amp;streamtype=TSDOWNLOADER&am&title=1
+
+#EXTINF:-1, tvg-id="Teststream1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Teststream.png" tvg-name="Teststream1"  group-title="Austria",Testsream1
+plugin://plugin.video.f4mTester/?url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4655&amp;streamtype=TSDOWNLOADER
+
+
+
+
+
+
 #EXTINF:-1, tvg-id="ORF 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF1.png" tvg-name="ORF 1"  group-title="Austria",ORF 1
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="ORF 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF2.png" tvg-name="ORF 2"  group-title="Austria",ORF 2

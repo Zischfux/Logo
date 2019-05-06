@@ -1,16 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="Teststream" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Teststream.png" tvg-name="Teststream"  group-title="Austria",Testsream
-http://localhost:62666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tv.si/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12&amp;streamtype=TSDOWNLOADER&am&title=1
-
-#EXTINF:-1, tvg-id="Teststream1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Teststream.png" tvg-name="Teststream1"  group-title="Austria",Testsream1
-plugin://plugin.video.f4mTester/?url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4655&amp;streamtype=TSDOWNLOADER
-
-
-
-
-
-
 #EXTINF:-1, tvg-id="ORF 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF1.png" tvg-name="ORF 1"  group-title="Austria",ORF 1
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="ORF 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF2.png" tvg-name="ORF 2"  group-title="Austria",ORF 2
@@ -295,3 +284,27 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51135
 #EXTINF:-1, tvg-id="Popcorn Select 7" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/PopcornSelect7.png" tvg-name="Popcorn Select 7"  group-title="Sky",Popcorn Select 7
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51134
+
+
+#EXTINF:-1, tvg-id="Junior" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Junior.png" tvg-name="Junior"  group-title="Kids",Junior
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12820
+#EXTINF:-1, tvg-id="Baby TV" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/BabyTV.png" tvg-name="Baby TV"  group-title="Kids",Baby TV
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51265
+#EXTINF:-1, tvg-id="KIKA" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/KIKA.png" tvg-name="KIKA"  group-title="Kids",KIKA
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7780
+#EXTINF:-1, tvg-id="TOGGO" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/TOGGO.png" tvg-name="TOGGO"  group-title="Kids",TOGGO
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52935
+#EXTINF:-1, tvg-id="Boomerang" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Boomerang.png" tvg-name="Boomerang"  group-title="Kids",Boomerang
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7766
+#EXTINF:-1, tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/CartoonNetwork.png" tvg-name="Cartoon Network"  group-title="Kids",Cartoon Network
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7772
+#EXTINF:-1, tvg-id="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Nickelodeon.png" tvg-name="Nickelodeon"  group-title="Kids",Nickelodeon
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4658
+#EXTINF:-1, tvg-id="Disney XD" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DisneyXD.png" tvg-name="Disney XD"  group-title="Kids",Disney XD
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4681
+#EXTINF:-1, tvg-id="Disney Channel" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DisneyChannel.png" tvg-name="Disney Channel"  group-title="Kids",Disney Channel
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7769
+#EXTINF:-1, tvg-id="Disney Junior" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DisneyJunior.png" tvg-name="Disney Junior"  group-title="Kids",Disney Junior
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4680
+#EXTINF:-1, tvg-id="Disney Cinemagic" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DisneyCinemagic.png" tvg-name="Disney Cinemagic"  group-title="Kids",Disney Cinemagic
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4682

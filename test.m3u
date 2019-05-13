@@ -13,9 +13,9 @@ http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&
 
 
 #EXTINF:-1, tvg-id="ORF 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF1.png" tvg-name="ORF 1"  group-title="Austria",ORF 1
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%26mode%3D12
 #EXTINF:-1, tvg-id="ORF 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF2.png" tvg-name="ORF 2"  group-title="Austria",ORF 2
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%26mode%3D12
 #EXTINF:-1, tvg-id="ORF 3" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF3.png" tvg-name="ORF 3"  group-title="Austria",ORF 3
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12804
 #EXTINF:-1, tvg-id="ORF Sport" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORFSport.png" tvg-name="ORF Sport"  group-title="Austria",ORF Sport
@@ -29,7 +29,8 @@ http://localhost:60666/?plugin://plugin.video.israelive/?categoryid=10625&iconim
 
 
 #EXTINF:-1, tvg-id="Pro 7" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Pro7.png" tvg-name="Pro 7"  group-title="Free TV",Pro 7
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%26mode%3D12
+
 #EXTINF:-1, tvg-id="Pro 7 Fun" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Pro7Fun.png" tvg-name="Pro 7 Fun"  group-title="Free TV",Pro 7 Fun
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12800
 #EXTINF:-1, tvg-id="Pro 7 maxx" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Pro7maxx.png" tvg-name="Pro 7 maxx"  group-title="Free TV",Pro 7 maxx
@@ -47,9 +48,9 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 
 
 #EXTINF:-1, tvg-id="RTL" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTL.png" tvg-name="RTL"  group-title="Free TV",RTL
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FRTL%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FRTL%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%26mode%3D12
 #EXTINF:-1, tvg-id="RTL 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTL2.png" tvg-name="RTL 2"  group-title="Free TV",RTL 2
-http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FRTL2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FRTL2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%26mode%3D12
 #EXTINF:-1, tvg-id="RTL Living" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTLLiving.png" tvg-name="RTL Living"  group-title="Free TV",RTL Living
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4648
 #EXTINF:-1, tvg-id="RTL Passion" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTLPassion.png" tvg-name="RTL Passion"  group-title="Free TV",RTL Passion

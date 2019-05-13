@@ -4,9 +4,9 @@
 
 
 
-#EXTINF:-1, tvg-id="test1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/test1.png" tvg-name="test1"  group-title="Austria",test1
+#EXTINF:-1, tvg-id="test1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Teststream.png" tvg-name="test1"  group-title="Austria",test1
 http://localhost:60666/?plugin://plugin.video.playlistLoader/?url=https://tv.si/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
-#EXTINF:-1, tvg-id="test2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF2.png" tvg-name="test2"  group-title="Austria",test2
+#EXTINF:-1, tvg-id="test2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Teststream.png" tvg-name="test2"  group-title="Austria",test2
 http://localhost:60666/?plugin://plugin.video.playlistLoader/?url=https://tv.si/ts/ORF2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
 
 
@@ -16,7 +16,7 @@ http://localhost:60666/?plugin://plugin.video.playlistLoader/?url=https://tv.si/
 
 #EXTINF:-1, tvg-id="ORF 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF1.png" tvg-name="ORF 1"  group-title="Austria",ORF 1
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
-#EXTINF:-1, tvg-id="ORF 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/test2.png" tvg-name="ORF 2"  group-title="Austria",ORF 2
+#EXTINF:-1, tvg-id="ORF 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF2.png" tvg-name="ORF 2"  group-title="Austria",ORF 2
 http://localhost:60666/?plugin://plugin.video.livetvSerbia/?url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="ORF 3" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF3.png" tvg-name="ORF 3"  group-title="Austria",ORF 3
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12804

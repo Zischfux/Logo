@@ -5,9 +5,9 @@
 
 
 #EXTINF:-1, tvg-id="test1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Teststream.png" tvg-name="test1"  group-title="Austria",test1
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?url=https://tv.si/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
+http://localhost:60666/?url=https://tv.si/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
 #EXTINF:-1, tvg-id="test2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Teststream.png" tvg-name="test2"  group-title="Austria",test2
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?url=https://tv.si/ts/ORF2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
+http://localhost:60666/?url=https://tv.si/ts/ORF2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia&mode=12
 
 
 

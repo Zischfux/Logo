@@ -31,7 +31,7 @@ http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&
 #EXTINF:-1, tvg-id="ZDF" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ZDF.png" tvg-name="ZDF"  group-title="Free TV",ZDF
 http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F5842
 #EXTINF:-1, tvg-id="ZDF info" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ZDFinfo.png" tvg-name="ZDF info"  group-title="Free TV",ZDF info
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4636
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fzdf1112-lh.akamaihd.net%2Fi%2Fde12_v1@392882%2Fmaster.m3u8?sd%3D10&rebase%3Don%7CX-Forwarded-For%3D91.197.29.78
 #EXTINF:-1, tvg-id="ZDF neo" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ZDFneo.png" tvg-name="ZDF neo"  group-title="Free TV",ZDF neo
 http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4636
 #EXTINF:-1, tvg-id="Das Erste" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DasErste.png" tvg-name="Das Erste"  group-title="Free TV",Das Erste
@@ -280,3 +280,7 @@ http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&
 http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4680
 #EXTINF:-1, tvg-id="Disney Cinemagic" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DisneyCinemagic.png" tvg-name="Disney Cinemagic"  group-title="Kids",Disney Cinemagic
 http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F4682
+
+
+
+

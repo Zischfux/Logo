@@ -19,7 +19,7 @@ http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&
 #EXTINF:-1, tvg-id="Servus TV" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ServusTV.png" tvg-name="Servus TV"  group-title="Austria",Servus TV
 http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12812
 #EXTINF:-1, tvg-id="Puls 4" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Puls4.png" tvg-name="Puls 4"  group-title="Austria",Puls 4
-=WECHSELN(G12;"http"; "http://localhost:60666/?plugin://plugin.video.f4mTester/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http")
+http://localhost:60666/?plugin://plugin.video.f4mTester/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fpredator-ott.com%3A8000%2FLL122413%2F3hKjL8NqxI%2F12812
 #EXTINF:-1, tvg-id="3 Sat" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/3Sat.png" tvg-name="3 Sat"  group-title="Austria",3 Sat
 http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2F3sat.png&mode%3D10&channelid%3D10657
 #EXTINF:-1, tvg-id="Pro 7" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Pro7.png" tvg-name="Pro 7"  group-title="Free TV",Pro 7

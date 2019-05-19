@@ -9,23 +9,23 @@
 
 
 #EXTINF:-1, tvg-id="ORF 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF1.png" tvg-name="ORF 1"  group-title="Austria",ORF 1
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=ORF+1;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=ORF+1&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FORF1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
 #EXTINF:-1, tvg-id="ORF 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF2.png" tvg-name="ORF 2"  group-title="Austria",ORF 2
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=ORF+2;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=ORF+2&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FORF2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
 #EXTINF:-1, tvg-id="ORF 3" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORF3.png" tvg-name="ORF 3"  group-title="Austria",ORF 3
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=ORF+3;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12804
 #EXTINF:-1, tvg-id="ORF Sport" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ORFSport.png" tvg-name="ORF Sport"  group-title="Austria",ORF Sport
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=ORF+Sport;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12805
 #EXTINF:-1, tvg-id="ATV" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ATV.png" tvg-name="ATV"  group-title="Austria",ATV
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=ATV;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Fpsdlv003-a.akamaihd.net%2F6f5c0112%2Ft_003%2Fatv%2Fatv_audio_01%2Fcenc%2F15580185480480000.m4s
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=ATV&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Fpsdlv003-a.akamaihd.net%2F6f5c0112%2Ft_003%2Fatv%2Fatv_audio_01%2Fcenc%2F15580185480480000.m4s
 #EXTINF:-1, tvg-id="Servus TV" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ServusTV.png" tvg-name="Servus TV"  group-title="Austria",Servus TV
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Servus+TV;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12812
 #EXTINF:-1, tvg-id="Puls 4" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Puls4.png" tvg-name="Puls 4"  group-title="Austria",Puls 4
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Puls+4;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/95983
 #EXTINF:-1, tvg-id="3 Sat" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/3Sat.png" tvg-name="3 Sat"  group-title="Austria",3 Sat
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=3+Sat;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2F3SAT%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&amp;mode%3D12&quot
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=3+Sat&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2F3SAT%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148+%28iPad%3B+U%3B+CPU+OS+4_2_1+like+Mac+OS+X%3B+en_us%29&amp;mode%3D12&quot
 #EXTINF:-1, tvg-id="Pro 7" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Pro7.png" tvg-name="Pro 7"  group-title="Free TV",Pro 7
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Pro+7;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Pro+7&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FPro7%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
 #EXTINF:-1, tvg-id="Pro 7 Fun" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Pro7Fun.png" tvg-name="Pro 7 Fun"  group-title="Free TV",Pro 7 Fun
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Pro+7+Fun;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12800
 #EXTINF:-1, tvg-id="Pro 7 maxx" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Pro7maxx.png" tvg-name="Pro 7 maxx"  group-title="Free TV",Pro 7 maxx
@@ -37,11 +37,11 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="ZDF neo" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/ZDFneo.png" tvg-name="ZDF neo"  group-title="Free TV",ZDF neo
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=ZDF+neo;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73463
 #EXTINF:-1, tvg-id="Das Erste" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DasErste.png" tvg-name="Das Erste"  group-title="Free TV",Das Erste
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Das+Erste;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FARD%2Fstream_multi.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Das+Erste&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FARD%2Fstream_multi.m3u8%7CUser-Agent%3DAppleCoreMedia%2F1.0.0.8C148
 #EXTINF:-1, tvg-id="RTL" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTL.png" tvg-name="RTL"  group-title="Free TV",RTL
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=RTL;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FRTL%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=RTL&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FRTL%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
 #EXTINF:-1, tvg-id="RTL 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTL2.png" tvg-name="RTL 2"  group-title="Free TV",RTL 2
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=RTL+2;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FRTL2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=RTL+2&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FRTL2%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
 #EXTINF:-1, tvg-id="RTL Living" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTLLiving.png" tvg-name="RTL Living"  group-title="Free TV",RTL Living
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=RTL+Living;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4648
 #EXTINF:-1, tvg-id="RTL Passion" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTLPassion.png" tvg-name="RTL Passion"  group-title="Free TV",RTL Passion
@@ -51,17 +51,17 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="RTL plus" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTLplus.png" tvg-name="RTL plus"  group-title="Free TV",RTL plus
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=RTL+plus;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12813
 #EXTINF:-1, tvg-id="Super RTL" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SuperRTL.png" tvg-name="Super RTL"  group-title="Free TV",Super RTL
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Super+RTL;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FSUPERRTL%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Super+RTL&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FSUPERRTL%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
 #EXTINF:-1, tvg-id="RTL Nitro" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/RTLNitro.png" tvg-name="RTL Nitro"  group-title="Free TV",RTL Nitro
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=RTL+Nitro;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4646
 #EXTINF:-1, tvg-id="Kabel 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Kabel1.png" tvg-name="Kabel 1"  group-title="Free TV",Kabel 1
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Kabel+1;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FKABEL1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Kabel+1&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FKABEL1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
 #EXTINF:-1, tvg-id="Kabel 1 Doku" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Kabel1Doku.png" tvg-name="Kabel 1 Doku"  group-title="Free TV",Kabel 1 Doku
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Kabel+1+Doku;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12802
 #EXTINF:-1, tvg-id="Kabel 1 classics" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Kabel1classics.png" tvg-name="Kabel 1 classics"  group-title="Free TV",Kabel 1 classics
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Kabel+1+classics;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12803
 #EXTINF:-1, tvg-id="Sat 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Sat1.png" tvg-name="Sat 1"  group-title="Free TV",Sat 1
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Sat+1;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FSAT1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Sat+1&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FSAT1%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
 #EXTINF:-1, tvg-id="Sat 1 gold" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Sat1gold.png" tvg-name="Sat 1 gold"  group-title="Free TV",Sat 1 gold
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sat+1+gold;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12807
 #EXTINF:-1, tvg-id="Sat 1 emotions" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Sat1emotions.png" tvg-name="Sat 1 emotions"  group-title="Free TV",Sat 1 emotions
@@ -69,23 +69,23 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="Dmax" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Dmax.png" tvg-name="Dmax"  group-title="Free TV",Dmax
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Dmax;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/17388
 #EXTINF:-1, tvg-id="Vox" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Vox.png" tvg-name="Vox"  group-title="Free TV",Vox
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Vox;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FVOX%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=Vox&amp;move=0&amp;mode=32&amp;index=2&amp;url=https%3A%2F%2Ftv.si%2Fts%2FVOX%2Fstream_wifi_1200k.m3u8%7CUser-Agent%3DAppleCoreMedia&mode%3D12
 #EXTINF:-1, tvg-id="N24" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/N24.png" tvg-name="N24"  group-title="Free TV",N24
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=N24;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4656
 #EXTINF:-1, tvg-id="n-tv" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/n-tv.png" tvg-name="n-tv"  group-title="Free TV",n-tv
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=n-tv;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1033%2Fextra_big_logo.png&mode%3D10&channelid%3D11830
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=n-tv&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1033%2Fextra_big_logo.png&mode%3D10&channelid%3D11830
 #EXTINF:-1, tvg-id="Sixx" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Sixx.png" tvg-name="Sixx"  group-title="Free TV",Sixx
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sixx;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4640
 #EXTINF:-1, tvg-id="arte" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/arte.png" tvg-name="arte"  group-title="Free TV",arte
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=arte;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Farte.png&mode%3D10&channelid%3D10663
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=arte&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Farte.png&mode%3D10&channelid%3D10663
 #EXTINF:-1, tvg-id="hr" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/hr.png" tvg-name="hr"  group-title="Free TV",hr
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=hr;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Flive1_hr-lh.akamaihd.net%2Fi%2Fhr_fernsehen@75910%2Fmaster.m3u8&mode%3D12
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=hr&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Flive1_hr-lh.akamaihd.net%2Fi%2Fhr_fernsehen@75910%2Fmaster.m3u8&mode%3D12
 #EXTINF:-1, tvg-id="mdr" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/mdr.png" tvg-name="mdr"  group-title="Free TV",mdr
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=mdr;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Fmdr.png&mode%3D10&channelid%3D12062
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=mdr&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Fmdr.png&mode%3D10&channelid%3D12062
 #EXTINF:-1, tvg-id="NDR" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/NDR.png" tvg-name="NDR"  group-title="Free TV",NDR
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NDR;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/12818
 #EXTINF:-1, tvg-id="WDR" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/WDR.png" tvg-name="WDR"  group-title="Free TV",WDR
-http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=WDR;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Fwdr.png&mode%3D10&channelid%3D10666
+http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=WDR&amp;move=0&amp;mode=32&amp;index=2&amp;url=http%3A%2F%2Fimages.live-stream.tv%2Fpicons%2Fwdr.png&mode%3D10&channelid%3D10666
 #EXTINF:-1, tvg-id="Sky 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Sky1.png" tvg-name="Sky 1"  group-title="Sky",Sky 1
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+1;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52958
 #EXTINF:-1, tvg-id="Sky Action" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyAction.png" tvg-name="Sky Action"  group-title="Sky",Sky Action

@@ -139,7 +139,7 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="MGM" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/MGM.png" tvg-name="MGM"  group-title="Sky",MGM
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=MGM;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51189
 #EXTINF:-1, tvg-id="TLC" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/TLC.png" tvg-name="TLC"  group-title="Sky",TLC
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TLC;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51008
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TLC;url=http://predator-ott.com:8000/LL121790/ZmaBe1eNlG/52939
 #EXTINF:-1, tvg-id="Goldstar" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Goldstar.png" tvg-name="Goldstar"  group-title="Sky",Goldstar
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Goldstar;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7752
 #EXTINF:-1, tvg-id="Heimatkanal" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Heimatkanal.png" tvg-name="Heimatkanal"  group-title="Sky",Heimatkanal

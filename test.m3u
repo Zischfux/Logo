@@ -89,25 +89,25 @@ http://localhost:60666/?plugin://plugin.video.playlistLoader/?logos=&amp;name=WD
 #EXTINF:-1, tvg-id="Sky 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Sky1.png" tvg-name="Sky 1"  group-title="Free TV",Sky 1
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+1;url=http://siptv-online.com:8789/Julien90/Julien90/23724
 #EXTINF:-1, tvg-id="Sky Action" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyAction.png" tvg-name="Sky Action"  group-title="Free TV",Sky Action
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Action;url=http://siptv-online.com:8789/Julien90/Julien90/23749
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Action;url=http://vipsecure.tk:8080/volkan4/4volkan/12325
 #EXTINF:-1, tvg-id="Sky Hits" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyHits.png" tvg-name="Sky Hits"  group-title="Free TV",Sky Hits
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Hits;url=http://siptv-online.com:8789/Julien90/Julien90/23742
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Hits;url=http://vipsecure.tk:8080/volkan4/4volkan/12321
 #EXTINF:-1, tvg-id="Sky Cinema" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyCinema.png" tvg-name="Sky Cinema"  group-title="Free TV",Sky Cinema
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Cinema;url=http://siptv-online.com:8789/Julien90/Julien90/23752
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Cinema;url=http://vipsecure.tk:8080/volkan4/4volkan/12322
 #EXTINF:-1, tvg-id="Sky Cinema 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyCinema1.png" tvg-name="Sky Cinema 1"  group-title="Free TV",Sky Cinema 1
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Cinema+1;url=http://siptv-online.com:8789/Julien90/Julien90/23750
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Cinema+1;url=http://vipsecure.tk:8080/volkan4/4volkan/12330
 #EXTINF:-1, tvg-id="Sky Cinema 24" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyCinema24.png" tvg-name="Sky Cinema 24"  group-title="Free TV",Sky Cinema 24
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Cinema+24;url=http://siptv-online.com:8789/Julien90/Julien90/23751
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Cinema+24;url=http://vipsecure.tk:8080/volkan4/4volkan/12329
 #EXTINF:-1, tvg-id="Sky Comedy" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyComedy.png" tvg-name="Sky Comedy"  group-title="Free TV",Sky Comedy
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Comedy;url=http://siptv-online.com:8789/Julien90/Julien90/23746
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Comedy;url=http://vipsecure.tk:8080/volkan4/4volkan/12319
 #EXTINF:-1, tvg-id="Sky Krimi" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyKrimi.png" tvg-name="Sky Krimi"  group-title="Free TV",Sky Krimi
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Krimi;url=http://siptv-online.com:8789/Julien90/Julien90/23716
 #EXTINF:-1, tvg-id="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyAtlantic.png" tvg-name="Sky Atlantic"  group-title="Free TV",Sky Atlantic
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Atlantic;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4675
 #EXTINF:-1, tvg-id="Sky Emotion" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyEmotion.png" tvg-name="Sky Emotion"  group-title="Free TV",Sky Emotion
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Emotion;url=http://siptv-online.com:8789/Julien90/Julien90/23743
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Emotion;url=http://vipsecure.tk:8080/volkan4/4volkan/12324
 #EXTINF:-1, tvg-id="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyCinemaFamily.png" tvg-name="Sky Cinema Family"  group-title="Free TV",Sky Cinema Family
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Cinema+Family;url=http://siptv-online.com:8789/Julien90/Julien90/23745
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Cinema+Family;url=http://vipsecure.tk:8080/volkan4/4volkan/12320
 #EXTINF:-1, tvg-id="Sky Nostalgie" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyNostalgie.png" tvg-name="Sky Nostalgie"  group-title="Free TV",Sky Nostalgie
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Nostalgie;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4664
 #EXTINF:-1, tvg-id="Sky Arts" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkyArts.png" tvg-name="Sky Arts"  group-title="Free TV",Sky Arts
@@ -147,17 +147,17 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="Universal HD" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/UniversalHD.png" tvg-name="Universal HD"  group-title="Sky",Universal HD
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Universal+HD;url=http://siptv-online.com:8789/Julien90/Julien90/23729
 #EXTINF:-1, tvg-id="Sky Select 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkySelect1.png" tvg-name="Sky Select 1"  group-title="Sky",Sky Select 1
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+1;url=http://siptv-online.com:8789/Julien90/Julien90/23735
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+1;url=http://vipsecure.tk:8080/volkan4/4volkan/12344
 #EXTINF:-1, tvg-id="Sky Select 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkySelect2.png" tvg-name="Sky Select 2"  group-title="Sky",Sky Select 2
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+2;url=http://siptv-online.com:8789/Julien90/Julien90/23730
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+2;url=http://vipsecure.tk:8080/volkan4/4volkan/12343
 #EXTINF:-1, tvg-id="Sky Select 3" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkySelect3.png" tvg-name="Sky Select 3"  group-title="Sky",Sky Select 3
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+3;url=http://siptv-online.com:8789/Julien90/Julien90/23733
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+3;url=http://vipsecure.tk:8080/volkan4/4volkan/12347
 #EXTINF:-1, tvg-id="Sky Select 4" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkySelect4.png" tvg-name="Sky Select 4"  group-title="Sky",Sky Select 4
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+4;url=http://siptv-online.com:8789/Julien90/Julien90/23732
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+4;url=http://vipsecure.tk:8080/volkan4/4volkan/12346
 #EXTINF:-1, tvg-id="Sky Select 5" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkySelect5.png" tvg-name="Sky Select 5"  group-title="Sky",Sky Select 5
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+5;url=http://siptv-online.com:8789/Julien90/Julien90/23731
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+5;url=http://vipsecure.tk:8080/volkan4/4volkan/12345
 #EXTINF:-1, tvg-id="Sky Select 8" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkySelect8.png" tvg-name="Sky Select 8"  group-title="Sky",Sky Select 8
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+8;url=http://siptv-online.com:8789/Julien90/Julien90/23728
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+8;url=http://vipsecure.tk:8080/volkan4/4volkan/12342
 #EXTINF:-1, tvg-id="Sky Select 9" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkySelect9.png" tvg-name="Sky Select 9"  group-title="Sky",Sky Select 9
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sky+Select+9;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7789
 #EXTINF:-1, tvg-id="Sky Select 10" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SkySelect10.png" tvg-name="Sky Select 10"  group-title="Sky",Sky Select 10
@@ -207,11 +207,11 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Eurosport1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Eurosport+1;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/4683
 #EXTINF:-1, tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DAZN1.png" tvg-name="DAZN 1"  group-title="Sport",DAZN 1
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DAZN+1;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52424
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DAZN+1;url=http://vipsecure.tk:8080/volkan4/4volkan/12261
 #EXTINF:-1, tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DAZN2.png" tvg-name="DAZN 2"  group-title="Sport",DAZN 2
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DAZN+2;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/52423
 #EXTINF:-1, tvg-id="DAZN BAR 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DAZNBAR1.png" tvg-name="DAZN BAR 1"  group-title="Sport",DAZN BAR 1
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DAZN+BAR+1;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29411
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DAZN+BAR+1;url=http://vipsecure.tk:8080/volkan4/4volkan/12262
 #EXTINF:-1, tvg-id="DAZN BAR 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DAZNBAR2.png" tvg-name="DAZN BAR 2"  group-title="Sport",DAZN BAR 2
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DAZN+BAR+2;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/29412
 #EXTINF:-1, tvg-id="Fight Channel" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/FightChannel.png" tvg-name="Fight Channel"  group-title="Sport",Fight Channel
@@ -229,15 +229,15 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 #EXTINF:-1, tvg-id="Sony Entertainment" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/SonyEntertainment.png" tvg-name="Sony Entertainment"  group-title="Sky",Sony Entertainment
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sony+Entertainment;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/7736
 #EXTINF:-1, tvg-id="Film Club 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/FilmClub1.png" tvg-name="Film Club 1"  group-title="Sky",Film Club 1
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+1;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51224
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+1;url=http://vipsecure.tk:8080/volkan4/4volkan/12336
 #EXTINF:-1, tvg-id="Film Club 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/FilmClub2.png" tvg-name="Film Club 2"  group-title="Sky",Film Club 2
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+2;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51223
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+2;url=http://vipsecure.tk:8080/volkan4/4volkan/12335
 #EXTINF:-1, tvg-id="Film Club 3" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/FilmClub3.png" tvg-name="Film Club 3"  group-title="Sky",Film Club 3
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+3;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51222
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+3;url=http://vipsecure.tk:8080/volkan4/4volkan/12334
 #EXTINF:-1, tvg-id="Film Club 4" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/FilmClub4.png" tvg-name="Film Club 4"  group-title="Sky",Film Club 4
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+4;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51221
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+4;url=http://vipsecure.tk:8080/volkan4/4volkan/12333
 #EXTINF:-1, tvg-id="Film Club 5" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/FilmClub5.png" tvg-name="Film Club 5"  group-title="Sky",Film Club 5
-http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+5;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51220
+http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Film+Club+5;url=http://vipsecure.tk:8080/volkan4/4volkan/12332
 #EXTINF:-1, tvg-id="Moviesinema 1" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Moviesinema1.png" tvg-name="Moviesinema 1"  group-title="Sky",Moviesinema 1
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Moviesinema+1;url=http://predator-ott.com:8000/LL122413/3hKjL8NqxI/51172
 #EXTINF:-1, tvg-id="Moviesinema 2" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/Moviesinema2.png" tvg-name="Moviesinema 2"  group-title="Sky",Moviesinema 2
@@ -282,4 +282,3 @@ http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Disney+Junior;url=http://siptv-online.com:8789/Julien90/Julien90/23659
 #EXTINF:-1, tvg-id="Disney Cinemagic" tvg-logo="https://raw.githubusercontent.com/Zischfux/Logo/master/DisneyCinemagic.png" tvg-name="Disney Cinemagic"  group-title="Kinder",Disney Cinemagic
 http://localhost:60666/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Disney+Cinemagic;url=http://siptv-online.com:8789/Julien90/Julien90/23666
-

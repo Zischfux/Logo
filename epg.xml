@@ -549,7 +549,7 @@
     </credits>
     <date>2019</date>
     <category lang="de">ip tv by Zischfux</category>
-    <icon src="https://images.tvtoday.de/itv/2019-06-07/5cc03b598189653e43b63612_159.jpg" />
+    <icon src="https://github.com/Zischfux/Logo/raw/master/Zischfux.png" />
     <country>D</country>
     <episode-num></episode-num>
   </programme>
@@ -570,7 +570,7 @@
     </credits>
     <date>2019</date>
     <category lang="de">ip tv by Zischfux</category>
-    <icon src="https://images.tvtoday.de/itv/2019-06-07/5cc03b598189653e43b63612_159.jpg" />
+    <icon src="https://github.com/Zischfux/Logo/raw/master/Zischfux.png" />
     <country>D</country>
     <episode-num></episode-num>
   </programme>
@@ -591,7 +591,7 @@
     </credits>
     <date>2019</date>
     <category lang="de">ip tv by Zischfux</category>
-    <icon src="https://images.tvtoday.de/itv/2019-06-07/5cc03b598189653e43b63612_159.jpg" />
+    <icon src="https://github.com/Zischfux/Logo/raw/master/Zischfux.png" />
     <country>D</country>
     <episode-num></episode-num>
   </programme>
@@ -612,13 +612,13 @@
     </credits>
     <date>2019</date>
     <category lang="de">ip tv by Zischfux</category>
-    <icon src="https://images.tvtoday.de/itv/2019-06-07/5cc03b598189653e43b63612_159.jpg" />
+    <icon src="https://github.com/Zischfux/Logo/raw/master/Zischfux.png" />
     <country>D</country>
     <episode-num></episode-num>
   </programme>
 
 
-  <programme start="20180607075500 +0000" stop="20200607084400 +0000" channel="ORF ATV">
+  <programme start="20180607075500 +0000" stop="20200607084400 +0000" channel="ATV">
     <title lang="de">derzeit kein epg möglich Folgt demnächst Lg Zischfux</title>
     <desc lang="de">EPG funktioniert derzeit nicht korrekt, an einer Lösung wird gearbeitet bitte um Verständnis LG Zischfux
 	</desc>
@@ -633,7 +633,7 @@
     </credits>
     <date>2019</date>
     <category lang="de">ip tv by Zischfux</category>
-    <icon src="https://images.tvtoday.de/itv/2019-06-07/5cc03b598189653e43b63612_159.jpg" />
+    <icon src="https://github.com/Zischfux/Logo/raw/master/Zischfux.png" />
     <country>D</country>
     <episode-num></episode-num>
   </programme>
